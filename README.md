@@ -4,7 +4,7 @@ For global technical challenge.
 - Data: 04/10/2022
 - Use: Selenium 4.4.0 + Java 1.8
 
-### Requirement (TestCase)
+### Requirement (TestCase1)
 ##### website: [Link](http://automationpractice.com/index.php)
 ##### Step:  
 1. Add to the cart a Faded Short Sleeve T Shirt, size medium, colour blue 
