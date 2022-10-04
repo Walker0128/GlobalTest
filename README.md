@@ -17,6 +17,10 @@ For global technical challenge.
 1. Assert the total for each line in the cart 
 2. Assert the cart total is $65.53 
 
+### Structure
+src/main/java/com/global/shopping  
+|- CheckCart 
+
 ### Issue
 ##### Issue 1: Hard to locate production on homepage
   - On website home page, there is no use of "Id" in the product list, making it more difficult to locate and not easy to maintain afterwards. However, the id is complete on the subsequent pages and helps a lot with the progress of the work.
